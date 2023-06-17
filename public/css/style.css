@@ -45,7 +45,7 @@ h2{
 .navbar-light .navbar-nav .nav-link {
     color: #525252;
     text-transform: capitalize;
-    letter-spacing: 0.1rem;
+    letter-spacing: 0.1rem; 
     padding-left: 1rem;
     font-size: 1.9rem;
 }
