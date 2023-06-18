@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 //creating a database
 
-mongoose.connect("mongodb://127.0.0.1:27017/Wanaredynamic")
+mongoose.connect("mongodb+srv://sakshiAPI:sakshiKRUSHNA2546@sakshiapi.b0blor7.mongodb.net/wanaredynamic")
 .then(() => {
     console.log("connection successful");
 }).catch((error) => {
